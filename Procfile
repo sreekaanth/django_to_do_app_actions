@@ -1,1 +1,1 @@
-web: gunicorn sreetodoapp.wsgi --log-file -
+web: gunicorn todoapp.wsgi --log-file -
