@@ -25,7 +25,7 @@ SECRET_KEY = '@ioy@n5vxq4f=($@@#z&6k-qh96s*=vzj7jmty^dgv+g*gyn!_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sreetodoapp.herokuapp.com']
 
 
 # Application definition
